@@ -11,6 +11,11 @@ The best way to use this application is to type what you want in your note and c
 ## Instructions
 
 For this application, both Express.js and the inquirer package on node were used. Both must be downloaded to use this application via backend. Type "npm install -i" in your integrated terminal in your code editor. From there, type "node server.js" in your integrated terminal.  
+
+## Collaborators
+
+This code was written with the help of tutor, Andrew Hardemon. He sat down and reviewed the code as well as provided pointers when misconceptions about the assignment arose.
+
 ## License
 
 MIT License
